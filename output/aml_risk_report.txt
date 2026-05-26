@@ -1,0 +1,83 @@
+============================================================
+   WELLS FARGO - AML WIRE MONITORING REPORT
+   Generated : 2026-05-25 20:12:14
+   Prepared by: Payments Risk & Financial Crimes
+   Classification: CONFIDENTIAL
+============================================================
+
+============================================================
+  SECTION 1: PORTFOLIO OVERVIEW
+============================================================
+  Total Transactions  : 5,078,345
+  Confirmed Fraud     : 5,177
+  Total Volume        : $22,899,645,860,698.84
+  Avg Transaction     : $4,509,273.37
+  Unique Accounts     : 496,995
+  Unique Banks        : 30,470
+  Fraud Rate          : 0.102%
+
+============================================================
+  SECTION 2: STRUCTURING ALERTS (Bank Secrecy Act)
+============================================================
+  Accounts sending multiple wires between $9,000-$9,999
+  ACTION REQUIRED: File SAR report for each account
+
+  [ALERT] Account 100428660 | Bank 70 | 1581 wires | $14,966,473.06
+  [ALERT] Account 1004286A8 | Bank 70 | 1079 wires | $10,245,758.92
+  [ALERT] Account 1004286F0 | Bank 70 | 316 wires | $3,006,045.82
+  [ALERT] Account 100428780 | Bank 70 | 258 wires | $2,476,809.18
+  [ALERT] Account 1004287C8 | Bank 70 | 234 wires | $2,218,346.74
+
+============================================================
+  SECTION 3: HIGH VELOCITY ALERTS
+============================================================
+  Accounts with abnormally high transaction frequency
+  ACTION REQUIRED: Enhanced due diligence review
+
+  [ALERT] Account 100428660 | Bank 70 | 168,672 wires | $52,762,291,209.75
+  [ALERT] Account 1004286A8 | Bank 70 | 103,018 wires | $26,069,375,477.37
+  [ALERT] Account 100428978 | Bank 70 | 20,497 wires | $7,532,109,611.71
+  [ALERT] Account 1004286F0 | Bank 70 | 18,663 wires | $24,657,357,382.93
+  [ALERT] Account 100428780 | Bank 70 | 17,264 wires | $373,933,699,163.91
+
+============================================================
+  SECTION 4: CURRENCY MISMATCH ALERTS (Layering)
+============================================================
+  Accounts converting currencies suspiciously
+  ACTION REQUIRED: Review for layering activity
+
+  [ALERT] Account 8046CA880 | Yen -> Ruble | 14 times | $32,394,578,517.63
+  [ALERT] Account 800E8B7F0 | US Dollar -> Ruble | 6 times | $19,098,106,216.40
+  [ALERT] Account 8059FB490 | US Dollar -> Ruble | 21 times | $13,786,607,931.74
+  [ALERT] Account 8017047B0 | US Dollar -> Rupee | 30 times | $6,008,755,404.80
+  [ALERT] Account 803A02C40 | US Dollar -> Mexican Peso | 21 times | $4,485,526,771.74
+
+============================================================
+  SECTION 5: TOP 5 HIGHEST RISK ACCOUNTS
+============================================================
+  Ranked by confirmed fraud transaction count
+  ACTION REQUIRED: Immediate account review + freeze
+
+  #1 Account 100428660 | Bank 70 | Fraud: 243 | Total: $52,762,291,209.75 | Risk: 0.14%
+  #2 Account 1004286A8 | Bank 70 | Fraud: 158 | Total: $26,069,375,477.37 | Risk: 0.15%
+  #3 Account 100428978 | Bank 70 | Fraud: 29 | Total: $7,532,109,611.71 | Risk: 0.14%
+  #4 Account 80266F880 | Bank 15231 | Fraud: 29 | Total: $3,144,166.45 | Risk: 29.59%
+  #5 Account 100428810 | Bank 70 | Fraud: 26 | Total: $5,153,615,843.10 | Risk: 0.16%
+
+============================================================
+  SECTION 6: FRAUD RATE BY PAYMENT FORMAT
+============================================================
+
+  ACH             | #######    | 0.746% fraud | 600,797 total
+  Bitcoin         |            | 0.038% fraud | 146,091 total
+  Cash            |            | 0.022% fraud | 490,891 total
+  Cheque          |            | 0.017% fraud | 1,864,331 total
+  Credit Card     |            | 0.016% fraud | 1,323,324 total
+  Wire            |            | 0.0% fraud | 171,855 total
+  Reinvestment    |            | 0.0% fraud | 481,056 total
+
+============================================================
+  END OF REPORT
+  Next report: Tomorrow 06:00 AM EST
+  Questions: aml-monitoring@wellsfargo.com
+============================================================
