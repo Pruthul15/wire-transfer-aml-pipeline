@@ -29,7 +29,7 @@ def generate_report():
     # HEADER
     # ----------------------------------------
     report.append("="*60)
-    report.append("   WELLS FARGO - AML WIRE MONITORING REPORT")
+    report.append("   XYZ BANK - AML WIRE MONITORING REPORT")
     report.append(f"   Generated : {now}")
     report.append(f"   Prepared by: Payments Risk & Financial Crimes")
     report.append(f"   Classification: CONFIDENTIAL")
@@ -207,7 +207,7 @@ def generate_report():
     report.append("\n" + "="*60)
     report.append("  END OF REPORT")
     report.append(f"  Next report: Tomorrow 06:00 AM EST")
-    report.append(f"  Questions: aml-monitoring@wellsfargo.com")
+    report.append(f"  Questions: aml-monitoring@xyzbank.com")
     report.append("="*60)
 
     conn.close()
