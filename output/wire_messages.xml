@@ -1,0 +1,2603 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WireTransferBatch bank="Wells Fargo" date="2022-09-01" total_messages="200">
+  <WireTransfer id="WT-000001">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8000EBD30</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8000EBD30</ToAccount>
+    <AmountPaid>3697.34</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3697.34</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000002">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>3208</FromBank>
+    <FromAccount>8000F4580</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000F5340</ToAccount>
+    <AmountPaid>0.01</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>0.01</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000003">
+    <Timestamp>2022/09/01 00:00</Timestamp>
+    <FromBank>3209</FromBank>
+    <FromAccount>8000F4670</FromAccount>
+    <ToBank>3209</ToBank>
+    <ToAccount>8000F4670</ToAccount>
+    <AmountPaid>14675.57</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>14675.57</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000004">
+    <Timestamp>2022/09/01 00:02</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>8000F5030</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>8000F5030</ToAccount>
+    <AmountPaid>2806.97</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>2806.97</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000005">
+    <Timestamp>2022/09/01 00:06</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8000F5200</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8000F5200</ToAccount>
+    <AmountPaid>36682.97</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>36682.97</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000006">
+    <Timestamp>2022/09/01 00:03</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F5AD0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000F5AD0</ToAccount>
+    <AmountPaid>6162.44</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>6162.44</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000007">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000EBAC0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000EBAC0</ToAccount>
+    <AmountPaid>14.26</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>14.26</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000008">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000EC1E0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000EC1E0</ToAccount>
+    <AmountPaid>11.86</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>11.86</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000009">
+    <Timestamp>2022/09/01 00:26</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>8000EC280</FromAccount>
+    <ToBank>2439</ToBank>
+    <ToAccount>8017BF800</ToAccount>
+    <AmountPaid>7.66</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>7.66</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000010">
+    <Timestamp>2022/09/01 00:21</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000EDEC0</FromAccount>
+    <ToBank>211050</ToBank>
+    <ToAccount>80AEF5310</ToAccount>
+    <AmountPaid>383.71</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>383.71</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000011">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F4510</FromAccount>
+    <ToBank>11813</ToBank>
+    <ToAccount>8011305D0</ToAccount>
+    <AmountPaid>9.82</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>9.82</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000012">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F47F0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000F47F0</ToAccount>
+    <AmountPaid>9.38</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>9.38</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000013">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F4FE0</FromAccount>
+    <ToBank>245335</ToBank>
+    <ToAccount>812ED62E0</ToAccount>
+    <AmountPaid>4.01</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>4.01</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000014">
+    <Timestamp>2022/09/01 00:17</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80012FD90</FromAccount>
+    <ToBank>36056</ToBank>
+    <ToAccount>812ED6380</ToAccount>
+    <AmountPaid>106.7</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>106.7</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000015">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>80012FE00</FromAccount>
+    <ToBank>13037</ToBank>
+    <ToAccount>805B34210</ToAccount>
+    <AmountPaid>0.54</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>0.54</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000016">
+    <Timestamp>2022/09/01 00:09</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80012FE50</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>80012FE50</ToAccount>
+    <AmountPaid>3944232.29</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3944232.29</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000017">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80012FEA0</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80012FEA0</ToAccount>
+    <AmountPaid>10020.68</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>10020.68</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000018">
+    <Timestamp>2022/09/01 00:00</Timestamp>
+    <FromBank>1420</FromBank>
+    <FromAccount>8005DFEB0</FromAccount>
+    <ToBank>1420</ToBank>
+    <ToAccount>8005DFEB0</ToAccount>
+    <AmountPaid>897.37</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>897.37</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000019">
+    <Timestamp>2022/09/01 00:28</Timestamp>
+    <FromBank>1665</FromBank>
+    <FromAccount>8005E18F0</FromAccount>
+    <ToBank>1665</ToBank>
+    <ToAccount>8005E18F0</ToAccount>
+    <AmountPaid>157.57</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>157.57</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000020">
+    <Timestamp>2022/09/01 00:22</Timestamp>
+    <FromBank>1665</FromBank>
+    <FromAccount>8005E24C0</FromAccount>
+    <ToBank>1665</ToBank>
+    <ToAccount>8005E24C0</ToAccount>
+    <AmountPaid>52.75</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>52.75</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000021">
+    <Timestamp>2022/09/01 00:28</Timestamp>
+    <FromBank>1420</FromBank>
+    <FromAccount>8005F2D30</FromAccount>
+    <ToBank>1420</ToBank>
+    <ToAccount>8005F2D30</ToAccount>
+    <AmountPaid>8163.85</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>8163.85</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000022">
+    <Timestamp>2022/09/01 00:12</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800131480</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800131480</ToAccount>
+    <AmountPaid>5.74</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>5.74</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000023">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>800131B10</FromAccount>
+    <ToBank>11642</ToBank>
+    <ToAccount>8131A9A80</ToAccount>
+    <AmountPaid>46.86</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>46.86</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000024">
+    <Timestamp>2022/09/01 00:02</Timestamp>
+    <FromBank>1665</FromBank>
+    <FromAccount>8005E18F0</FromAccount>
+    <ToBank>1665</ToBank>
+    <ToAccount>8005E18F0</ToAccount>
+    <AmountPaid>9.89</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>9.89</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000025">
+    <Timestamp>2022/09/01 00:21</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8005F0B50</FromAccount>
+    <ToBank>13327</ToBank>
+    <ToAccount>810B0FB40</ToAccount>
+    <AmountPaid>86.3</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>86.3</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000026">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>908</FromBank>
+    <FromAccount>8005FB700</FromAccount>
+    <ToBank>143995</ToBank>
+    <ToAccount>813600910</ToAccount>
+    <AmountPaid>3.16</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3.16</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000027">
+    <Timestamp>2022/09/01 00:25</Timestamp>
+    <FromBank>1420</FromBank>
+    <FromAccount>8005FD390</FromAccount>
+    <ToBank>1420</ToBank>
+    <ToAccount>8005FD390</ToAccount>
+    <AmountPaid>780457.62</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>780457.62</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000028">
+    <Timestamp>2022/09/01 00:09</Timestamp>
+    <FromBank>1688</FromBank>
+    <FromAccount>8005FD430</FromAccount>
+    <ToBank>1688</ToBank>
+    <ToAccount>8005FD430</ToAccount>
+    <AmountPaid>748.62</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>748.62</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000029">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800A5F020</FromAccount>
+    <ToBank>1420</ToBank>
+    <ToAccount>8006A3840</ToAccount>
+    <AmountPaid>1210984.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1210984.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000030">
+    <Timestamp>2022/09/01 00:29</Timestamp>
+    <FromBank>1420</FromBank>
+    <FromAccount>8005FD390</FromAccount>
+    <ToBank>1292</ToBank>
+    <ToAccount>8006A3890</ToAccount>
+    <AmountPaid>38386097.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>38386097.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000031">
+    <Timestamp>2022/09/01 00:12</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8006AF500</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8006AF500</ToAccount>
+    <AmountPaid>956.43</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>956.43</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000032">
+    <Timestamp>2022/09/01 00:25</Timestamp>
+    <FromBank>31125</FromBank>
+    <FromAccount>8006AF550</FromAccount>
+    <ToBank>31125</ToBank>
+    <ToAccount>8006AF550</ToAccount>
+    <AmountPaid>43.44</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>43.44</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000033">
+    <Timestamp>2022/09/01 00:26</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800058100</FromAccount>
+    <ToBank>1688</ToBank>
+    <ToAccount>8005FD430</ToAccount>
+    <AmountPaid>159271.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>159271.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000034">
+    <Timestamp>2022/09/01 00:14</Timestamp>
+    <FromBank>1420</FromBank>
+    <FromAccount>8006A3840</FromAccount>
+    <ToBank>217680</ToBank>
+    <ToAccount>80C132DC0</ToAccount>
+    <AmountPaid>3.62</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3.62</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000035">
+    <Timestamp>2022/09/01 00:09</Timestamp>
+    <FromBank>1292</FromBank>
+    <FromAccount>8006A3890</FromAccount>
+    <ToBank>121303</ToBank>
+    <ToAccount>80A3C7390</ToAccount>
+    <AmountPaid>192.83</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>192.83</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000036">
+    <Timestamp>2022/09/01 00:22</Timestamp>
+    <FromBank>1674</FromBank>
+    <FromAccount>800AC8E30</FromAccount>
+    <ToBank>1674</ToBank>
+    <ToAccount>800AC8E30</ToAccount>
+    <AmountPaid>4295104.54</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>4295104.54</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000037">
+    <Timestamp>2022/09/01 00:09</Timestamp>
+    <FromBank>21611</FromBank>
+    <FromAccount>800AC9010</FromAccount>
+    <ToBank>21611</ToBank>
+    <ToAccount>800AC9010</ToAccount>
+    <AmountPaid>3203.2</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3203.2</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000038">
+    <Timestamp>2022/09/01 00:05</Timestamp>
+    <FromBank>11157</FromBank>
+    <FromAccount>800ACA9C0</FromAccount>
+    <ToBank>11157</ToBank>
+    <ToAccount>800ACA9C0</ToAccount>
+    <AmountPaid>192154.42</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>192154.42</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000039">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>21611</FromBank>
+    <FromAccount>800AC9010</FromAccount>
+    <ToBank>1467</ToBank>
+    <ToAccount>801008340</ToAccount>
+    <AmountPaid>152631.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>152631.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000040">
+    <Timestamp>2022/09/01 00:15</Timestamp>
+    <FromBank>1674</FromBank>
+    <FromAccount>800AC8E30</FromAccount>
+    <ToBank>1420</ToBank>
+    <ToAccount>801008520</ToAccount>
+    <AmountPaid>5069.19</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>5069.19</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000041">
+    <Timestamp>2022/09/01 00:29</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005D5C0</FromAccount>
+    <ToBank>1674</ToBank>
+    <ToAccount>800AC8E30</ToAccount>
+    <AmountPaid>29382.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>29382.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000042">
+    <Timestamp>2022/09/01 00:28</Timestamp>
+    <FromBank>11296</FromBank>
+    <FromAccount>800AC8E80</FromAccount>
+    <ToBank>11296</ToBank>
+    <ToAccount>800AC8E80</ToAccount>
+    <AmountPaid>7.64</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>7.64</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000043">
+    <Timestamp>2022/09/01 00:07</Timestamp>
+    <FromBank>11474</FromBank>
+    <FromAccount>800AC9400</FromAccount>
+    <ToBank>1124</ToBank>
+    <ToAccount>814233CC0</ToAccount>
+    <AmountPaid>16.03</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>16.03</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000044">
+    <Timestamp>2022/09/01 00:02</Timestamp>
+    <FromBank>1601</FromBank>
+    <FromAccount>800AC9DD0</FromAccount>
+    <ToBank>215064</ToBank>
+    <ToAccount>8121CF4B0</ToAccount>
+    <AmountPaid>25.34</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>25.34</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000045">
+    <Timestamp>2022/09/01 00:02</Timestamp>
+    <FromBank>1411</FromBank>
+    <FromAccount>800AC9E20</FromAccount>
+    <ToBank>1124</ToBank>
+    <ToAccount>814233CC0</ToAccount>
+    <AmountPaid>146.97</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>146.97</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000046">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>1467</FromBank>
+    <FromAccount>801008340</FromAccount>
+    <ToBank>111764</ToBank>
+    <ToAccount>8082250C0</ToAccount>
+    <AmountPaid>16.9</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>16.9</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000047">
+    <Timestamp>2022/09/01 00:10</Timestamp>
+    <FromBank>1241</FromBank>
+    <FromAccount>801008480</FromAccount>
+    <ToBank>15723</ToBank>
+    <ToAccount>8065002B0</ToAccount>
+    <AmountPaid>87.71</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>87.71</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000048">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>1420</FromBank>
+    <FromAccount>801008520</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>80974B620</ToAccount>
+    <AmountPaid>17.57</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>17.57</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000049">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>1420</FromBank>
+    <FromAccount>8010098B0</FromAccount>
+    <ToBank>1420</ToBank>
+    <ToAccount>8010098B0</ToAccount>
+    <AmountPaid>19605.49</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>19605.49</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000050">
+    <Timestamp>2022/09/01 00:14</Timestamp>
+    <FromBank>1674</FromBank>
+    <FromAccount>801009860</FromAccount>
+    <ToBank>1411</ToBank>
+    <ToAccount>80100A2C0</ToAccount>
+    <AmountPaid>424245.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>424245.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000051">
+    <Timestamp>2022/09/01 00:29</Timestamp>
+    <FromBank>1674</FromBank>
+    <FromAccount>801009860</FromAccount>
+    <ToBank>1457</ToBank>
+    <ToAccount>80100D180</ToAccount>
+    <AmountPaid>2995.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>2995.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000052">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>1674</FromBank>
+    <FromAccount>801009860</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>80100DB80</ToAccount>
+    <AmountPaid>527190.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>527190.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000053">
+    <Timestamp>2022/09/01 00:06</Timestamp>
+    <FromBank>1068</FromBank>
+    <FromAccount>8012261B0</FromAccount>
+    <ToBank>1068</ToBank>
+    <ToAccount>8012261B0</ToAccount>
+    <AmountPaid>15018.93</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>15018.93</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000054">
+    <Timestamp>2022/09/01 00:17</Timestamp>
+    <FromBank>1674</FromBank>
+    <FromAccount>801009860</FromAccount>
+    <ToBank>1674</ToBank>
+    <ToAccount>801009860</ToAccount>
+    <AmountPaid>17.29</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>17.29</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000055">
+    <Timestamp>2022/09/01 00:22</Timestamp>
+    <FromBank>1411</FromBank>
+    <FromAccount>80100A2C0</FromAccount>
+    <ToBank>12893</ToBank>
+    <ToAccount>80805AE20</ToAccount>
+    <AmountPaid>6.88</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>6.88</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000056">
+    <Timestamp>2022/09/01 00:22</Timestamp>
+    <FromBank>1457</FromBank>
+    <FromAccount>80100D180</FromAccount>
+    <ToBank>15916</ToBank>
+    <ToAccount>803177AF0</ToAccount>
+    <AmountPaid>406.38</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>406.38</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000057">
+    <Timestamp>2022/09/01 00:01</Timestamp>
+    <FromBank>11318</FromBank>
+    <FromAccount>80100DB30</FromAccount>
+    <ToBank>16109</ToBank>
+    <ToAccount>80805A830</ToAccount>
+    <AmountPaid>9.57</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>9.57</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000058">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80100DB80</FromAccount>
+    <ToBank>11904</ToBank>
+    <ToAccount>80A059840</ToAccount>
+    <AmountPaid>42.18</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>42.18</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000059">
+    <Timestamp>2022/09/01 00:13</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8012275D0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8012275D0</ToAccount>
+    <AmountPaid>78061.55</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>78061.55</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000060">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8012275D0</FromAccount>
+    <ToBank>1467</ToBank>
+    <ToAccount>801227620</ToAccount>
+    <AmountPaid>8468.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>8468.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000061">
+    <Timestamp>2022/09/01 00:12</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8012275D0</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>80141ED50</ToAccount>
+    <AmountPaid>13818883.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>13818883.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000062">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8012275D0</FromAccount>
+    <ToBank>1686</ToBank>
+    <ToAccount>8004169F0</ToAccount>
+    <AmountPaid>9814809.87</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>9814809.87</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000063">
+    <Timestamp>2022/09/01 00:01</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8012275D0</FromAccount>
+    <ToBank>1047</ToBank>
+    <ToAccount>800416A40</ToAccount>
+    <AmountPaid>2782.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>2782.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000064">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8012275D0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8012275D0</ToAccount>
+    <AmountPaid>4.62</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>4.62</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000065">
+    <Timestamp>2022/09/01 00:21</Timestamp>
+    <FromBank>1467</FromBank>
+    <FromAccount>801227620</FromAccount>
+    <ToBank>6156</ToBank>
+    <ToAccount>802F2FD40</ToAccount>
+    <AmountPaid>44.54</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>44.54</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000066">
+    <Timestamp>2022/09/01 00:28</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>80141ED50</FromAccount>
+    <ToBank>23885</ToBank>
+    <ToAccount>805DEB4F0</ToAccount>
+    <AmountPaid>77.15</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>77.15</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000067">
+    <Timestamp>2022/09/01 00:19</Timestamp>
+    <FromBank>1686</FromBank>
+    <FromAccount>8004169F0</FromAccount>
+    <ToBank>1047</ToBank>
+    <ToAccount>80A0DDC70</ToAccount>
+    <AmountPaid>6.28</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>6.28</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000068">
+    <Timestamp>2022/09/01 00:05</Timestamp>
+    <FromBank>1047</FromBank>
+    <FromAccount>800416A40</FromAccount>
+    <ToBank>15723</ToBank>
+    <ToAccount>8051B9F40</ToAccount>
+    <AmountPaid>130.1</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>130.1</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000069">
+    <Timestamp>2022/09/01 00:27</Timestamp>
+    <FromBank>3051</FromBank>
+    <FromAccount>80152BF60</FromAccount>
+    <ToBank>3051</ToBank>
+    <ToAccount>80152BF60</ToAccount>
+    <AmountPaid>11.77</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>11.77</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000070">
+    <Timestamp>2022/09/01 00:25</Timestamp>
+    <FromBank>1665</FromBank>
+    <FromAccount>80152E780</FromAccount>
+    <ToBank>15625</ToBank>
+    <ToAccount>81173FE50</ToAccount>
+    <AmountPaid>5.87</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>5.87</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000071">
+    <Timestamp>2022/09/01 00:14</Timestamp>
+    <FromBank>11296</FromBank>
+    <FromAccount>8016B82E0</FromAccount>
+    <ToBank>11296</ToBank>
+    <ToAccount>8016B82E0</ToAccount>
+    <AmountPaid>756221.89</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>756221.89</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000072">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>23842</FromBank>
+    <FromAccount>8016BA970</FromAccount>
+    <ToBank>23842</ToBank>
+    <ToAccount>8016BA970</ToAccount>
+    <AmountPaid>24068.17</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>24068.17</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000073">
+    <Timestamp>2022/09/01 00:18</Timestamp>
+    <FromBank>11904</FromBank>
+    <FromAccount>8016BC320</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8016BBF40</ToAccount>
+    <AmountPaid>106953.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>106953.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000074">
+    <Timestamp>2022/09/01 00:06</Timestamp>
+    <FromBank>13327</FromBank>
+    <FromAccount>8016BA470</FromAccount>
+    <ToBank>2991</ToBank>
+    <ToAccount>8016BBF90</ToAccount>
+    <AmountPaid>25397.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>25397.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000075">
+    <Timestamp>2022/09/01 00:26</Timestamp>
+    <FromBank>11904</FromBank>
+    <FromAccount>8016BC320</FromAccount>
+    <ToBank>11904</ToBank>
+    <ToAccount>8016BC320</ToAccount>
+    <AmountPaid>1282.15</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1282.15</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000076">
+    <Timestamp>2022/09/01 00:23</Timestamp>
+    <FromBank>220</FromBank>
+    <FromAccount>8016BC820</FromAccount>
+    <ToBank>220</ToBank>
+    <ToAccount>8016BC820</ToAccount>
+    <AmountPaid>489.99</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>489.99</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000077">
+    <Timestamp>2022/09/01 00:18</Timestamp>
+    <FromBank>701</FromBank>
+    <FromAccount>8016BBEA0</FromAccount>
+    <ToBank>701</ToBank>
+    <ToAccount>8016BBEA0</ToAccount>
+    <AmountPaid>11.68</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>11.68</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000078">
+    <Timestamp>2022/09/01 00:17</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8016BBF40</FromAccount>
+    <ToBank>24161</ToBank>
+    <ToAccount>80DF7DCE0</ToAccount>
+    <AmountPaid>149.35</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>149.35</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000079">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>2991</FromBank>
+    <FromAccount>8016BBF90</FromAccount>
+    <ToBank>11904</ToBank>
+    <ToAccount>8017A8630</ToAccount>
+    <AmountPaid>97.86</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>97.86</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000080">
+    <Timestamp>2022/09/01 00:29</Timestamp>
+    <FromBank>2845</FromBank>
+    <FromAccount>8016BC370</FromAccount>
+    <ToBank>2845</ToBank>
+    <ToAccount>8016BC370</ToAccount>
+    <AmountPaid>17.38</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>17.38</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000081">
+    <Timestamp>2022/09/01 00:24</Timestamp>
+    <FromBank>1244</FromBank>
+    <FromAccount>8016CAB70</FromAccount>
+    <ToBank>121303</ToBank>
+    <ToAccount>80E2754A0</ToAccount>
+    <AmountPaid>51.44</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>51.44</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000082">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>1686</FromBank>
+    <FromAccount>8018754D0</FromAccount>
+    <ToBank>14804</ToBank>
+    <ToAccount>80D120A40</ToAccount>
+    <AmountPaid>46.3</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>46.3</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000083">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>1068</FromBank>
+    <FromAccount>801342560</FromAccount>
+    <ToBank>1068</ToBank>
+    <ToAccount>801342560</ToAccount>
+    <AmountPaid>6.11</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>6.11</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000084">
+    <Timestamp>2022/09/01 00:26</Timestamp>
+    <FromBank>23833</FromBank>
+    <FromAccount>8018859B0</FromAccount>
+    <ToBank>23833</ToBank>
+    <ToAccount>8018859B0</ToAccount>
+    <AmountPaid>3231020.27</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3231020.27</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000085">
+    <Timestamp>2022/09/01 00:29</Timestamp>
+    <FromBank>11904</FromBank>
+    <FromAccount>801885E60</FromAccount>
+    <ToBank>11904</ToBank>
+    <ToAccount>801885E60</ToAccount>
+    <AmountPaid>64631.85</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>64631.85</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000086">
+    <Timestamp>2022/09/01 00:19</Timestamp>
+    <FromBank>21258</FromBank>
+    <FromAccount>801885EB0</FromAccount>
+    <ToBank>21258</ToBank>
+    <ToAccount>801885EB0</ToAccount>
+    <AmountPaid>278.34</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>278.34</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000087">
+    <Timestamp>2022/09/01 00:07</Timestamp>
+    <FromBank>22345</FromBank>
+    <FromAccount>8018A5860</FromAccount>
+    <ToBank>22345</ToBank>
+    <ToAccount>8018A5860</ToAccount>
+    <AmountPaid>25.23</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>25.23</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000088">
+    <Timestamp>2022/09/01 00:24</Timestamp>
+    <FromBank>12735</FromBank>
+    <FromAccount>8018A5A80</FromAccount>
+    <ToBank>12735</ToBank>
+    <ToAccount>8018A5A80</ToAccount>
+    <AmountPaid>48609.72</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>48609.72</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000089">
+    <Timestamp>2022/09/01 00:13</Timestamp>
+    <FromBank>22828</FromBank>
+    <FromAccount>8018A5CF0</FromAccount>
+    <ToBank>22828</ToBank>
+    <ToAccount>8018A5CF0</ToAccount>
+    <AmountPaid>1445.91</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1445.91</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000090">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>2439</FromBank>
+    <FromAccount>801DC6C70</FromAccount>
+    <ToBank>13037</ToBank>
+    <ToAccount>8018A61B0</ToAccount>
+    <AmountPaid>62787.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>62787.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000091">
+    <Timestamp>2022/09/01 00:23</Timestamp>
+    <FromBank>1362</FromBank>
+    <FromAccount>8019FB070</FromAccount>
+    <ToBank>1362</ToBank>
+    <ToAccount>8019FB070</ToAccount>
+    <AmountPaid>1511.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1511.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000092">
+    <Timestamp>2022/09/01 00:03</Timestamp>
+    <FromBank>3242</FromBank>
+    <FromAccount>801DC7400</FromAccount>
+    <ToBank>3242</ToBank>
+    <ToAccount>801DC7400</ToAccount>
+    <AmountPaid>1266.68</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1266.68</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000093">
+    <Timestamp>2022/09/01 00:24</Timestamp>
+    <FromBank>11904</FromBank>
+    <FromAccount>801885E60</FromAccount>
+    <ToBank>11904</ToBank>
+    <ToAccount>801885E60</ToAccount>
+    <AmountPaid>3.2</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3.2</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000094">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>21174</FromBank>
+    <FromAccount>801886770</FromAccount>
+    <ToBank>226657</ToBank>
+    <ToAccount>812B06600</ToAccount>
+    <AmountPaid>32.2</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>32.2</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000095">
+    <Timestamp>2022/09/01 00:10</Timestamp>
+    <FromBank>908</FromBank>
+    <FromAccount>8018867C0</FromAccount>
+    <ToBank>222363</ToBank>
+    <ToAccount>80D454CA0</ToAccount>
+    <AmountPaid>2.22</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>2.22</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000096">
+    <Timestamp>2022/09/01 00:10</Timestamp>
+    <FromBank>22828</FromBank>
+    <FromAccount>8018A5CF0</FromAccount>
+    <ToBank>22828</ToBank>
+    <ToAccount>8018A5CF0</ToAccount>
+    <AmountPaid>18.28</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>18.28</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000097">
+    <Timestamp>2022/09/01 00:03</Timestamp>
+    <FromBank>23885</FromBank>
+    <FromAccount>8018A6110</FromAccount>
+    <ToBank>23885</ToBank>
+    <ToAccount>8018A6110</ToAccount>
+    <AmountPaid>6.05</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>6.05</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000098">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>13037</FromBank>
+    <FromAccount>8018A61B0</FromAccount>
+    <ToBank>226657</ToBank>
+    <ToAccount>812B06600</ToAccount>
+    <AmountPaid>39.48</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>39.48</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000099">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>1362</FromBank>
+    <FromAccount>8019FB070</FromAccount>
+    <ToBank>1362</ToBank>
+    <ToAccount>8019FB070</ToAccount>
+    <AmountPaid>3.89</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3.89</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000100">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>3420</FromBank>
+    <FromAccount>801D9FF00</FromAccount>
+    <ToBank>3420</ToBank>
+    <ToAccount>801D9FF00</ToAccount>
+    <AmountPaid>19.24</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>19.24</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000101">
+    <Timestamp>2022/09/01 00:03</Timestamp>
+    <FromBank>15768</FromBank>
+    <FromAccount>8149656B0</FromAccount>
+    <ToBank>15768</ToBank>
+    <ToAccount>8149656B0</ToAccount>
+    <AmountPaid>10.91</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>10.91</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000102">
+    <Timestamp>2022/09/01 00:19</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800042E70</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800042E70</ToAccount>
+    <AmountPaid>9.63</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>9.63</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000103">
+    <Timestamp>2022/09/01 00:14</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800043990</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800043990</ToAccount>
+    <AmountPaid>23.63</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>23.63</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000104">
+    <Timestamp>2022/09/01 00:22</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>800054B70</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>800054B70</ToAccount>
+    <AmountPaid>10.44</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>10.44</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000105">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800052F90</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800052F90</ToAccount>
+    <AmountPaid>1111098.7</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1111098.7</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000106">
+    <Timestamp>2022/09/01 00:26</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>800043C00</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>800043C00</ToAccount>
+    <AmountPaid>755.25</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>755.25</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000107">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>800043C00</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>800043C00</ToAccount>
+    <AmountPaid>876.16</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>876.16</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000108">
+    <Timestamp>2022/09/01 00:03</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800056160</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800056160</ToAccount>
+    <AmountPaid>5439.01</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>5439.01</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000109">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800056370</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800056370</ToAccount>
+    <AmountPaid>14.6</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>14.6</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000110">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800056660</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800056660</ToAccount>
+    <AmountPaid>4461.81</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>4461.81</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000111">
+    <Timestamp>2022/09/01 00:03</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800056660</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800056660</ToAccount>
+    <AmountPaid>1134.32</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1134.32</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000112">
+    <Timestamp>2022/09/01 00:18</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800056660</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800056660</ToAccount>
+    <AmountPaid>726.94</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>726.94</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cash</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000113">
+    <Timestamp>2022/09/01 00:12</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800056660</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800056660</ToAccount>
+    <AmountPaid>297.27</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>297.27</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000114">
+    <Timestamp>2022/09/01 00:14</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800056660</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800056660</ToAccount>
+    <AmountPaid>14.84</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>14.84</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000115">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800056CB0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800056CB0</ToAccount>
+    <AmountPaid>40939.45</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>40939.45</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000116">
+    <Timestamp>2022/09/01 00:17</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800056CB0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800056CB0</ToAccount>
+    <AmountPaid>3.31</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3.31</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000117">
+    <Timestamp>2022/09/01 00:03</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800057620</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800057620</ToAccount>
+    <AmountPaid>4.58</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>4.58</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000118">
+    <Timestamp>2022/09/01 00:10</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800057A10</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800057A10</ToAccount>
+    <AmountPaid>755232.33</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>755232.33</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000119">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800057D40</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800057D40</ToAccount>
+    <AmountPaid>5.5</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>5.5</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000120">
+    <Timestamp>2022/09/01 00:27</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>8000551B0</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>8000551B0</ToAccount>
+    <AmountPaid>21.77</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>21.77</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000121">
+    <Timestamp>2022/09/01 00:22</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800058B80</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800058B80</ToAccount>
+    <AmountPaid>1028547.78</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1028547.78</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000122">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800058B80</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800058B80</ToAccount>
+    <AmountPaid>11.24</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>11.24</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000123">
+    <Timestamp>2022/09/01 00:25</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>800059230</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>800059230</ToAccount>
+    <AmountPaid>77285.26</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>77285.26</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000124">
+    <Timestamp>2022/09/01 00:28</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800059840</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800059840</ToAccount>
+    <AmountPaid>167.41</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>167.41</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000125">
+    <Timestamp>2022/09/01 00:10</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800059840</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800059840</ToAccount>
+    <AmountPaid>401.34</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>401.34</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cash</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000126">
+    <Timestamp>2022/09/01 00:03</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800059C00</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800059C00</ToAccount>
+    <AmountPaid>212976.7</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>212976.7</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000127">
+    <Timestamp>2022/09/01 00:29</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800059F50</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800059F50</ToAccount>
+    <AmountPaid>86837.1</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>86837.1</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000128">
+    <Timestamp>2022/09/01 00:25</Timestamp>
+    <FromBank>70</FromBank>
+    <FromAccount>100428660</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800059F50</ToAccount>
+    <AmountPaid>5105.92</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>5105.92</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000129">
+    <Timestamp>2022/09/01 00:13</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>80005A2A0</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>80005A2A0</ToAccount>
+    <AmountPaid>261681.48</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>261681.48</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000130">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>800055A70</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>800055A70</ToAccount>
+    <AmountPaid>497338.05</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>497338.05</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000131">
+    <Timestamp>2022/09/01 00:18</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80005AB30</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>80005AB30</ToAccount>
+    <AmountPaid>8.96</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>8.96</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000132">
+    <Timestamp>2022/09/01 00:10</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005ADE0</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80005ADE0</ToAccount>
+    <AmountPaid>16314.97</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>16314.97</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000133">
+    <Timestamp>2022/09/01 00:23</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005B110</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80005B110</ToAccount>
+    <AmountPaid>18.48</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>18.48</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000134">
+    <Timestamp>2022/09/01 00:01</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>80005B5F0</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>80005B5F0</ToAccount>
+    <AmountPaid>24.37</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>24.37</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000135">
+    <Timestamp>2022/09/01 00:27</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80005B9B0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>80005B9B0</ToAccount>
+    <AmountPaid>38143.57</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>38143.57</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000136">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80005C0A0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>80005C0A0</ToAccount>
+    <AmountPaid>4735.15</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>4735.15</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000137">
+    <Timestamp>2022/09/01 00:09</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80005C790</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>80005C790</ToAccount>
+    <AmountPaid>23.06</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>23.06</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000138">
+    <Timestamp>2022/09/01 00:25</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8000588D0</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8000588D0</ToAccount>
+    <AmountPaid>10.32</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>10.32</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000139">
+    <Timestamp>2022/09/01 00:13</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005AD90</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80005AD90</ToAccount>
+    <AmountPaid>22.13</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>22.13</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000140">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>80005D3B0</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>80005D3B0</ToAccount>
+    <AmountPaid>146758.59</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>146758.59</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000141">
+    <Timestamp>2022/09/01 00:19</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005D980</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80005D980</ToAccount>
+    <AmountPaid>93309.02</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>93309.02</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000142">
+    <Timestamp>2022/09/01 00:05</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005E100</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80005E100</ToAccount>
+    <AmountPaid>184.24</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>184.24</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000143">
+    <Timestamp>2022/09/01 00:24</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005E100</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80005E100</ToAccount>
+    <AmountPaid>36.56</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>36.56</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cash</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000144">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>80005E9C0</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>80005E9C0</ToAccount>
+    <AmountPaid>172667.53</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>172667.53</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000145">
+    <Timestamp>2022/09/01 00:17</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000EBF70</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000EBF70</ToAccount>
+    <AmountPaid>30022.76</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>30022.76</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000146">
+    <Timestamp>2022/09/01 00:02</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80005AB30</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000EBF70</ToAccount>
+    <AmountPaid>310.47</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>310.47</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000147">
+    <Timestamp>2022/09/01 00:10</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000ECD10</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000ECD10</ToAccount>
+    <AmountPaid>10227.22</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>10227.22</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000148">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000ECD60</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000ECD60</ToAccount>
+    <AmountPaid>462.12</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>462.12</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000149">
+    <Timestamp>2022/09/01 00:11</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8000ED4A0</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8000ED4A0</ToAccount>
+    <AmountPaid>436.68</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>436.68</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000150">
+    <Timestamp>2022/09/01 00:29</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>8000ED150</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>8000ED150</ToAccount>
+    <AmountPaid>9.82</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>9.82</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000151">
+    <Timestamp>2022/09/01 00:23</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000EDBB0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000EDBB0</ToAccount>
+    <AmountPaid>30261.56</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>30261.56</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000152">
+    <Timestamp>2022/09/01 00:13</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000EDBB0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000EDBB0</ToAccount>
+    <AmountPaid>14.62</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>14.62</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000153">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8000F2A20</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8000F2A20</ToAccount>
+    <AmountPaid>19.29</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>19.29</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000154">
+    <Timestamp>2022/09/01 00:29</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8000F15A0</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8000F15A0</ToAccount>
+    <AmountPaid>72043.32</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>72043.32</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000155">
+    <Timestamp>2022/09/01 00:28</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800059440</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>800059440</ToAccount>
+    <AmountPaid>13.94</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>13.94</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000156">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>8000F42A0</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>8000F42A0</ToAccount>
+    <AmountPaid>524928.98</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>524928.98</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000157">
+    <Timestamp>2022/09/01 00:28</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F4D20</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000F4D20</ToAccount>
+    <AmountPaid>55925.32</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>55925.32</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000158">
+    <Timestamp>2022/09/01 00:24</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F6110</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000F6110</ToAccount>
+    <AmountPaid>14609.34</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>14609.34</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000159">
+    <Timestamp>2022/09/01 00:00</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>8000F6850</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8000F6850</ToAccount>
+    <AmountPaid>99986.94</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>99986.94</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000160">
+    <Timestamp>2022/09/01 00:27</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F6B10</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000F6B10</ToAccount>
+    <AmountPaid>1033.32</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1033.32</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000161">
+    <Timestamp>2022/09/01 00:01</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F65C0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000F65C0</ToAccount>
+    <AmountPaid>10.46</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>10.46</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000162">
+    <Timestamp>2022/09/01 00:03</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F7850</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000F7850</ToAccount>
+    <AmountPaid>8.55</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>8.55</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000163">
+    <Timestamp>2022/09/01 00:29</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005CB50</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8000F8070</ToAccount>
+    <AmountPaid>562.3</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>562.3</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000164">
+    <Timestamp>2022/09/01 00:07</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005CB50</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>8000F8070</ToAccount>
+    <AmountPaid>1314.94</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1314.94</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000165">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>8000F8580</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>8000F8580</ToAccount>
+    <AmountPaid>29117.33</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>29117.33</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000166">
+    <Timestamp>2022/09/01 00:01</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F8620</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8000F8620</ToAccount>
+    <AmountPaid>1383.6</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1383.6</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000167">
+    <Timestamp>2022/09/01 00:06</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005D160</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80005D160</ToAccount>
+    <AmountPaid>894762.11</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>894762.11</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000168">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F7850</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8001003A0</ToAccount>
+    <AmountPaid>1544.01</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1544.01</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000169">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8000F7850</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8001003A0</ToAccount>
+    <AmountPaid>300.44</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>300.44</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cash</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000170">
+    <Timestamp>2022/09/01 00:01</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8001003A0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8001003A0</ToAccount>
+    <AmountPaid>10.35</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>10.35</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000171">
+    <Timestamp>2022/09/01 00:12</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>800056E00</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>800056E00</ToAccount>
+    <AmountPaid>139575.29</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>139575.29</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000172">
+    <Timestamp>2022/09/01 00:13</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800102DD0</FromAccount>
+    <ToBank>28255</ToBank>
+    <ToAccount>809AEB890</ToAccount>
+    <AmountPaid>46.87</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>46.87</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000173">
+    <Timestamp>2022/09/01 00:06</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800105730</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800105730</ToAccount>
+    <AmountPaid>261455.31</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>261455.31</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000174">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800105D30</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800105D30</ToAccount>
+    <AmountPaid>1021418.64</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1021418.64</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000175">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800105D30</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>800105F00</ToAccount>
+    <AmountPaid>236392988.0</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>236392988.0</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000176">
+    <Timestamp>2022/09/01 00:15</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>800105D30</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>800105D30</ToAccount>
+    <AmountPaid>19.8</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>19.8</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000177">
+    <Timestamp>2022/09/01 00:09</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>800105F00</FromAccount>
+    <ToBank>15085</ToBank>
+    <ToAccount>808D68320</ToAccount>
+    <AmountPaid>19.42</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>19.42</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000178">
+    <Timestamp>2022/09/01 00:07</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>8001068A0</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>8001068A0</ToAccount>
+    <AmountPaid>15.45</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>15.45</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000179">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>800106D00</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>800106D00</ToAccount>
+    <AmountPaid>1611778.05</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1611778.05</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000180">
+    <Timestamp>2022/09/01 00:27</Timestamp>
+    <FromBank>3233</FromBank>
+    <FromAccount>800106D50</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>800106D00</ToAccount>
+    <AmountPaid>1384.46</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>1384.46</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000181">
+    <Timestamp>2022/09/01 00:22</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8001093C0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8001093C0</ToAccount>
+    <AmountPaid>29557.26</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>29557.26</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000182">
+    <Timestamp>2022/09/01 00:08</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>8001093C0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>8001093C0</ToAccount>
+    <AmountPaid>3.35</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>3.35</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000183">
+    <Timestamp>2022/09/01 00:22</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80010A2C0</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80010A2C0</ToAccount>
+    <AmountPaid>10794795.38</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>10794795.38</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000184">
+    <Timestamp>2022/09/01 00:12</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80010A750</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80010A750</ToAccount>
+    <AmountPaid>6.67</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>6.67</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000185">
+    <Timestamp>2022/09/01 00:24</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80010B040</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80010B040</ToAccount>
+    <AmountPaid>5.4</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>5.4</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000186">
+    <Timestamp>2022/09/01 00:19</Timestamp>
+    <FromBank>220</FromBank>
+    <FromAccount>80010C2F0</FromAccount>
+    <ToBank>220</ToBank>
+    <ToAccount>80010C2F0</ToAccount>
+    <AmountPaid>921588.24</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>921588.24</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000187">
+    <Timestamp>2022/09/01 00:09</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>80010C340</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>80010C340</ToAccount>
+    <AmountPaid>13774.9</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>13774.9</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000188">
+    <Timestamp>2022/09/01 00:15</Timestamp>
+    <FromBank>220</FromBank>
+    <FromAccount>80010C2F0</FromAccount>
+    <ToBank>220</ToBank>
+    <ToAccount>80010C2F0</ToAccount>
+    <AmountPaid>19.99</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>19.99</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000189">
+    <Timestamp>2022/09/01 00:20</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>80010C340</FromAccount>
+    <ToBank>12</ToBank>
+    <ToAccount>80010C340</ToAccount>
+    <AmountPaid>14.32</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>14.32</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000190">
+    <Timestamp>2022/09/01 00:27</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800056160</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80010BFC0</ToAccount>
+    <AmountPaid>22443.26</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>22443.26</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Cheque</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000191">
+    <Timestamp>2022/09/01 00:02</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>800056160</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80010BFC0</ToAccount>
+    <AmountPaid>19821.49</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>19821.49</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>ACH</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000192">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80010C060</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>80010C060</ToAccount>
+    <AmountPaid>21.9</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>21.9</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000193">
+    <Timestamp>2022/09/01 00:16</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80010C0B0</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80010C0B0</ToAccount>
+    <AmountPaid>20.89</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>20.89</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000194">
+    <Timestamp>2022/09/01 00:27</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80010BBD0</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80010BBD0</ToAccount>
+    <AmountPaid>187136.5</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>187136.5</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000195">
+    <Timestamp>2022/09/01 00:04</Timestamp>
+    <FromBank>3211</FromBank>
+    <FromAccount>80010BD10</FromAccount>
+    <ToBank>3211</ToBank>
+    <ToAccount>80010BD10</ToAccount>
+    <AmountPaid>10269.35</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>10269.35</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000196">
+    <Timestamp>2022/09/01 00:27</Timestamp>
+    <FromBank>10</FromBank>
+    <FromAccount>80005CF10</FromAccount>
+    <ToBank>10</ToBank>
+    <ToAccount>80005CF10</ToAccount>
+    <AmountPaid>140736.98</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>140736.98</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000197">
+    <Timestamp>2022/09/01 00:28</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80010F690</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>80010F690</ToAccount>
+    <AmountPaid>6.93</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>6.93</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000198">
+    <Timestamp>2022/09/01 00:27</Timestamp>
+    <FromBank>12</FromBank>
+    <FromAccount>80010F6E0</FromAccount>
+    <ToBank>8595</ToBank>
+    <ToAccount>8123576A0</ToAccount>
+    <AmountPaid>39.77</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>39.77</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Credit Card</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000199">
+    <Timestamp>2022/09/01 00:02</Timestamp>
+    <FromBank>3246</FromBank>
+    <FromAccount>800110820</FromAccount>
+    <ToBank>3246</ToBank>
+    <ToAccount>800110820</ToAccount>
+    <AmountPaid>17871.79</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>17871.79</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+  <WireTransfer id="WT-000200">
+    <Timestamp>2022/09/01 00:18</Timestamp>
+    <FromBank>1</FromBank>
+    <FromAccount>80010DEA0</FromAccount>
+    <ToBank>1</ToBank>
+    <ToAccount>80010DEA0</ToAccount>
+    <AmountPaid>22.8</AmountPaid>
+    <PaymentCurrency>US Dollar</PaymentCurrency>
+    <AmountReceived>22.8</AmountReceived>
+    <ReceivingCurrency>US Dollar</ReceivingCurrency>
+    <PaymentFormat>Reinvestment</PaymentFormat>
+    <IsLaundering>0</IsLaundering>
+  </WireTransfer>
+</WireTransferBatch>
