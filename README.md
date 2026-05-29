@@ -268,3 +268,27 @@ exactly what a Wells Fargo analyst works on daily.
 
 **Tech used:** scikit-learn IsolationForest,
 LabelEncoder, numpy log transformation
+
+
+### Script 08 - ML Risk Scoring (Random Forest)
+Builds behavioral profiles for all 496,995 accounts
+and assigns each a risk score from 0-100.
+
+**Results:**
+
+| Risk Level | Accounts | Action |
+|------------|----------|--------|
+| CRITICAL (70-100) | 1,522 | Immediate investigation |
+| HIGH (40-70) | 1,518 | Investigate this week |
+| MEDIUM (20-40) | 474 | Monitor closely |
+| LOW (0-20) | 493,481 | Auto-cleared |
+
+**Model Accuracy:** 100% overall, 81% fraud precision
+
+**Top features the AI uses:**
+- unique_banks: criminals send to many different banks
+- std_amount: criminals vary amounts unpredictably
+- mismatch_rate: currency conversion patterns
+
+**Tech used:** scikit-learn RandomForestClassifier,
+train_test_split, classification_report
