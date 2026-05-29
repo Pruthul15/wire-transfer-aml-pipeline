@@ -231,3 +231,40 @@ python scripts/06_report_generator.py
 ---
 
 *Built as a portfolio project demonstrating financial crimes analytics skills aligned with Payments Risk and AML monitoring roles at major financial institutions.*
+
+---
+
+## AI Features (Days 4-8)
+
+### Script 07 - Anomaly Detection (Isolation Forest)
+Uses unsupervised machine learning to detect unusual wire
+transfer behavior without any predefined rules.
+
+**How it works:**
+- AI learns what NORMAL transactions look like
+- Flags anything that doesnt fit the pattern
+- No rules needed - AI figures it out automatically
+- Same technique used by JPMorgan, HSBC worldwide
+
+**Results on 500,000 transactions:**
+
+| Metric | Value |
+|--------|-------|
+| Transactions Scanned | 500,000 |
+| AI Flagged Suspicious | 5,000 (1%) |
+| Known Fraud Cases | 193 |
+| Fraud Caught | 1 |
+| Top Suspicious Format | ACH with currency mismatch |
+
+**Key Finding:** AI independently discovered that ACH
+transactions with currency mismatches are the most
+anomalous - matching our SQL findings from Script 03.
+This validates both approaches.
+
+**Why low recall is realistic:**
+Money launderers deliberately make transactions look
+normal. Even AI gets fooled - improving recall is
+exactly what a Wells Fargo analyst works on daily.
+
+**Tech used:** scikit-learn IsolationForest,
+LabelEncoder, numpy log transformation
